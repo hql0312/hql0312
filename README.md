@@ -4,7 +4,7 @@
 hql0312/hql0312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=hql0312)
+![hql0312's GitHub stats](https://github-readme-stats.vercel.app/api?username=hql0312)
 
 <h3>最新的博客</h3>
 <ul>
