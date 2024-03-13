@@ -13,4 +13,5 @@
 <h3>最新的博客</h3>
 <ul>
   <li><a href="https://shenyu.apache.org/zh/blog/Loader-SourceCode-Analysis-ExtLoader/"><b> Shenyu 扩展插件的加载逻辑.</i></li>
+  <li><a href="https://shenyu.apache.org/zh/blog/DataSync-SourceCode-Analysis-Apollo-Data-Sync/"><b> Apollo数据同步源码分析.</i></li>
 </ul>
